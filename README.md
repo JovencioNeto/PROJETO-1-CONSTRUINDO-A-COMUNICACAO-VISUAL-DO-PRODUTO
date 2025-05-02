@@ -23,5 +23,5 @@ O produto será uma **plataforma para gerenciar equipes remotas** (tipo um "Trel
 
 ### 3. 🖼️ Elementos Visuais
 
-<img src="./image.png">
+<img src="./Wavy.png" height="750px">
 
