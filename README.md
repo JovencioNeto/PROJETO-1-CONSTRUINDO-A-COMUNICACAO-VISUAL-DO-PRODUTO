@@ -39,5 +39,28 @@ O nome **Wavy** vem da palavra inglesa *wave* (onda) e carrega múltiplos signif
 
 ### 🖼️ Elementos Visuais
 
-<img src="./Wavy.png" height="750px">
+<img src="./Wavy.png" height="600px">
 
+
+O símbolo da **onda** é usado como identidade gráfica em planos de fundo, ícones e na marca. Ele representa:
+
+- 🌊 Conexão e fluxo entre tarefas
+- 🧠 Pensamento em rede e integração
+- ✨ Movimento contínuo, como o trabalho remoto ideal
+
+---
+
+## 📦 Aplicações Visuais
+
+- ✅ Logotipo principal e reduzido
+- ✅ Interface UI com hierarquia de cores e espaçamentos claros
+- ✅ Elementos gráficos suaves e integrados ao conceito de "fluxo"
+- ✅ Branding aplicado a cards, landing page e app
+
+---
+
+## 🚀 Conclusão
+
+**Wavy** é mais do que uma plataforma — é uma forma de pensar o trabalho remoto como algo natural, dinâmico e conectado. Sua identidade visual reflete exatamente isso: **fluidez com propósito**, **elegância sem complicação**, e **tecnologia com empatia**.
+
+Trabalho feito por: Evilen Barreto, Ana Julia Barros e Jovêncio Neto.
